@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "id": "web-search",
+      "name": "联网搜索",
+      "description": "检索公开网页，结合真实来源回答并引用链接。",
+      "category": "search",
+      "kind": "web",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/web-search/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/web-search",
+      "license": "MIT",
+      "sha256": "aac2b64fe4ba5c3edd2636b91be08a5c9511fe0577aa337a4694cb894cd9d4e5"
+    },
+    {
+      "id": "paper-search",
+      "name": "论文查找",
+      "description": "通过 Crossref 查找论文标题、作者、发表年份与 DOI。",
+      "category": "search",
+      "kind": "papers",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/paper-search/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/paper-search",
+      "license": "MIT",
+      "sha256": "5e8687f1d3e7d5ede3f9a3bc5bcfa37e5adf4ce7dd09964186ccaed3a61ae471"
+    },
+    {
+      "id": "translation",
+      "name": "翻译",
+      "description": "保留语义、语气与原文结构，输出自然译文。",
+      "category": "translation",
+      "kind": "prompt",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/translation/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/translation",
+      "license": "MIT",
+      "sha256": "114179850ca5e7a43a1adfa12c941aaa3324d17b4b2e4aa3ea0afaa505443f68"
+    },
+    {
+      "id": "academic-translation",
+      "name": "学术翻译",
+      "description": "保持术语、引用和公式一致，适合论文与技术资料。",
+      "category": "translation",
+      "kind": "prompt",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/academic-translation/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/academic-translation",
+      "license": "MIT",
+      "sha256": "72ad75b7e26f044f23f80c11ad6ccbb52adf89b80c426069a861281272cb824b"
+    },
+    {
+      "id": "product-photo",
+      "name": "产品摄影",
+      "description": "干净构图、真实材质和有层次的布光。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/product-photo/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/product-photo",
+      "license": "MIT",
+      "sha256": "565ccdd6e2a09795c9db100a238726d7fb67e04005a0199ed26c9ad2d7eeb8db"
+    },
+    {
+      "id": "watercolor",
+      "name": "水彩插画",
+      "description": "轻盈色层、纸张肌理与柔和自然的笔触。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/watercolor/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/watercolor",
+      "license": "MIT",
+      "sha256": "4d756709e40c62bfd22d355329bc669c8b72e41a40709bd06a6485017c4496cc"
+    }
+  ]
+}
