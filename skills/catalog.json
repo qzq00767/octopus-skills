@@ -72,6 +72,18 @@
       "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/watercolor",
       "license": "MIT",
       "sha256": "4d756709e40c62bfd22d355329bc669c8b72e41a40709bd06a6485017c4496cc"
+    },
+    {
+      "id": "photo-revival",
+      "name": "照片手绘",
+      "description": "将上传照片重绘为大留白手绘插画，保留主体与场景特征。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/photo-revival/SKILL.md",
+      "sourceUrl": "https://github.com/dacnay816y62-hub/photo-revival",
+      "license": "MIT",
+      "sha256": "46a7c9101797c6c2e4edafc2fcbfde9e321be35ad7fe78b790cd57d4b4e6d462"
     }
   ]
 }
