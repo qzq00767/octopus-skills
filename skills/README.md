@@ -75,12 +75,57 @@ scripts, paid integrations or client tools.
 | photo-memory-archive | sbj61188-lab/compose-photo-memory-archive |
 | editorial-print-studio | liuzihe849-png/ai-editorial-print-studio |
 | silhouette-group-collage | liuzihe849-png/silhouette-group-collage |
+| photo-to-ink-painting | lzhandcyx/photo-to-ink-painting-skill |
+| paper-cut-illustration | kelegele/paper-cut-illustration-skill |
+| solar-polaroid | taxueseek/taxue-solar-polaroid |
+| commercial-poster | howardz27/poster-generator-skill |
+| photo-to-travel-sketch | liigoQi/photo-to-travel-sketch |
+| dreamy-motion-editorial | lzs0594/dreamy-motion-editorial |
+| film-print-2383 | n1ko724/kodak-2383-film-look |
+| photo-to-minimal-illustration | iamkong/photo-to-minimal-illustration |
 
 Each document pins the verified upstream revision and retains its MIT notice.
 The existing `photo-revival` is not duplicated. `heytea-creative-style` exposes
 the same `heytea-style` skill and is represented by `heytea-doodle-poster`.
 The screenshot spelling `Lmnastapeiniature-Landscape` is interpreted as
 `impasto-miniature-landscape`, found alongside `watercolor-travel-card`.
+
+The four additions retain catalog positions 36-39. Ink painting condenses the
+upstream content-aware rules. Paper-cut illustration inlines the complete
+original visual prompt; the browser edition does not run local background
+removal or promise verified transparency. Solar Polaroid incorporates the
+hybrid archive and photography rules without the upstream default signature.
+Commercial Poster includes four verified style routes (Swiss editorial,
+Bauhaus modular, luxury minimal and Art Deco), rather than claiming all twenty
+upstream templates. All are self-contained image instructions with no client
+scripts, renderer setup or automatic extra requests.
+
+These four repositories license their published materials under MIT without
+separate asset exclusions in the checked revisions. Only generated examples
+are linked as previews; source reference photos are not copied.
+
+The follow-up selection from `tluy/skill-zine-summary` occupies positions 40-43:
+travel sketch, dreamy motion editorial, 2383-inspired film finish and minimal
+field-study illustration. Original repositories, rather than the index, are
+the attribution and license authority. Their source URLs do not duplicate
+existing entries.
+
+Travel sketch includes its dry-marker reference rules; dreamy motion includes
+its motion mechanism and preservation rules without its optional analyzer.
+The 2383 adapter defaults to full-frame model generation and retains the
+upstream unofficial/trademark distinction. It does not execute ImageMagick
+or promise exact LUT behavior, unchanged pixels or deterministic panel geometry.
+Only minimal illustration has eligible, pinned result previews; no illustrative
+icons, external attachments or source photos substitute for the other skills'
+missing repository preview assets.
+
+Not included from this selection: `cinema-dna-21x9x3`,
+`handdrawn-photo-poster`, `poetic-line-zine-poster` and `reality-restaged`
+(no explicit redistribution license found in the checked revisions);
+`selective-ink-sketch` (prior written authorization required for commercial use);
+`travel-memory-sticker-card` (personal-use terms prohibit marketplace
+redistribution); and `flash4start_light` (no clear redistribution license,
+requires a local scan-and-render pipeline).
 
 Not redistributed: `photo-abstract-editorial` (CC BY-NC-SA), gathered/distillation
 zine skills and `scene-to-art-lab` (personal noncommercial),
@@ -110,7 +155,9 @@ are checked separately from the skill's software license. For example,
 heytea-style examples use CC BY 4.0; its private reference cutouts are excluded.
 Taxue visual examples explicitly reserve rights and are not embedded.
 
-The marketplace loads original examples directly in the browser, with lazy
+The marketplace keeps style examples collapsed until the user opens a skill's
+name control. Only one inline gallery is expanded at a time; filters and
+pagination collapse it. Example images load directly in the browser, with lazy
 loading, no referrer and fixed thumbnail dimensions. It does not proxy images
 through the app server or embed them in model instructions. Images without
 verified previews retain the text listing. The enlarged view shows complete

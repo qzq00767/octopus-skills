@@ -581,6 +581,173 @@
       "sourceUrl": "https://github.com/liuzihe849-png/silhouette-group-collage",
       "license": "MIT",
       "sha256": "a99dd2240aa605e63cc1949ac452debe41891c108037df0e0c8b86442f365e36"
+    },
+    {
+      "id": "photo-to-ink-painting",
+      "name": "水墨重绘",
+      "description": "保留照片主体与空间关系，以自然笔墨和宣纸留白重绘中国水墨画。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/photo-to-ink-painting/SKILL.md",
+      "sourceUrl": "https://github.com/lzhandcyx/photo-to-ink-painting-skill",
+      "license": "MIT",
+      "sha256": "138fb477911d076235cd67fb7fd21ca367273bd9bec9e60b91377a78a379cf36",
+      "preview": {
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/lzhandcyx/photo-to-ink-painting-skill/01fb9a1d5e13f7866e692e27a96d6f642689ffec/examples/e2.png",
+            "caption": "海滨公园水墨重绘"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/lzhandcyx/photo-to-ink-painting-skill/01fb9a1d5e13f7866e692e27a96d6f642689ffec/examples/e3.png",
+            "caption": "乡村田野水墨重绘"
+          }
+        ],
+        "credit": "lzhandcyx/photo-to-ink-painting-skill",
+        "license": "MIT",
+        "licenseUrl": "https://github.com/lzhandcyx/photo-to-ink-painting-skill/blob/01fb9a1d5e13f7866e692e27a96d6f642689ffec/LICENSE"
+      }
+    },
+    {
+      "id": "paper-cut-illustration",
+      "name": "剪纸插画",
+      "description": "将照片变成分层卡纸与暖白模切边插画，保留人物或宠物的辨识特征。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/paper-cut-illustration/SKILL.md",
+      "sourceUrl": "https://github.com/kelegele/paper-cut-illustration-skill",
+      "license": "MIT",
+      "sha256": "91b7c9b0660aaa318024f3c724d53a60133ab4e6235003fc9551b4cd2409119d",
+      "preview": {
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/kelegele/paper-cut-illustration-skill/4b73f4712c37998e0efba553b4f14140d94a9aa3/assets/readme/pet-cat-paper-cut.jpg",
+            "caption": "宠物分层剪纸插画"
+          }
+        ],
+        "credit": "kelegele/paper-cut-illustration-skill",
+        "license": "MIT",
+        "licenseUrl": "https://github.com/kelegele/paper-cut-illustration-skill/blob/4b73f4712c37998e0efba553b4f14140d94a9aa3/LICENSE"
+      }
+    },
+    {
+      "id": "solar-polaroid",
+      "name": "节气拍立得",
+      "description": "将节气、季节短句或生活记忆变成有物证细节的拍立得与纸本编辑视觉。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/solar-polaroid/SKILL.md",
+      "sourceUrl": "https://github.com/taxueseek/taxue-solar-polaroid",
+      "license": "MIT",
+      "sha256": "600b3685eaec62776e700ece6a16ba3f7b8a63d16a02ca906563b65dd0f0afde",
+      "preview": {
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/taxueseek/taxue-solar-polaroid/1c54b781de5648a9b28d74be7e14bbf4021b8f47/gallery/dongzhi-hybrid.jpg",
+            "caption": "冬至纸本档案"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/taxueseek/taxue-solar-polaroid/1c54b781de5648a9b28d74be7e14bbf4021b8f47/gallery/yushui-hybrid.jpg",
+            "caption": "雨水纸本档案"
+          }
+        ],
+        "credit": "taxueseek/taxue-solar-polaroid",
+        "license": "MIT",
+        "licenseUrl": "https://github.com/taxueseek/taxue-solar-polaroid/blob/1c54b781de5648a9b28d74be7e14bbf4021b8f47/LICENSE"
+      }
+    },
+    {
+      "id": "commercial-poster",
+      "name": "商业海报",
+      "description": "根据活动或产品文案设计海报，支持瑞士编辑、包豪斯、极简高端与装饰艺术风格。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/commercial-poster/SKILL.md",
+      "sourceUrl": "https://github.com/howardz27/poster-generator-skill",
+      "license": "MIT",
+      "sha256": "b625855217b9b1017a204820af8cdf25378f5e34e2408927cd5e7a2ec93facc4",
+      "preview": {
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/howardz27/poster-generator-skill/fa2a40bf0943c14dbcf2dfd86a2efe66fa8b4cbc/examples/zh/swiss-editorial/poster-zh-gpt-image-2.jpg",
+            "caption": "瑞士编辑式海报"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/howardz27/poster-generator-skill/fa2a40bf0943c14dbcf2dfd86a2efe66fa8b4cbc/examples/zh/art-deco-luxe/poster-zh-gpt-image-2.jpg",
+            "caption": "装饰艺术海报"
+          }
+        ],
+        "credit": "howardz27/poster-generator-skill",
+        "license": "MIT",
+        "licenseUrl": "https://github.com/howardz27/poster-generator-skill/blob/fa2a40bf0943c14dbcf2dfd86a2efe66fa8b4cbc/LICENSE"
+      }
+    },
+    {
+      "id": "photo-to-travel-sketch",
+      "name": "旅行速写",
+      "description": "用松弛钢笔线、灰调干性马克笔和大量露纸，将照片提炼为现场旅行速写。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/photo-to-travel-sketch/SKILL.md",
+      "sourceUrl": "https://github.com/liigoQi/photo-to-travel-sketch",
+      "license": "MIT",
+      "sha256": "6964baa211593cba7bffc386b4c7abd4ba69cc3d70362adcd6311e88944cee2e"
+    },
+    {
+      "id": "dreamy-motion-editorial",
+      "name": "梦幻慢门",
+      "description": "保留清晰主体，以可信的慢门拖影、玻璃反射与光色流动营造梦幻摄影。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/dreamy-motion-editorial/SKILL.md",
+      "sourceUrl": "https://github.com/lzs0594/dreamy-motion-editorial",
+      "license": "MIT",
+      "sha256": "0044f809d57350fad0dee1422cb1c20e5788c06448f180a5fcb01440502a3a00"
+    },
+    {
+      "id": "film-print-2383",
+      "name": "2383 胶片质感",
+      "description": "以电影印相密度、自然肤色、局部暖色光晕和细颗粒处理照片，默认全画幅。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/film-print-2383/SKILL.md",
+      "sourceUrl": "https://github.com/n1ko724/kodak-2383-film-look",
+      "license": "MIT",
+      "sha256": "2dffd066909e93d1582a804f238caaeec46e74c242a24de8afe429833bccc23b"
+    },
+    {
+      "id": "photo-to-minimal-illustration",
+      "name": "极简观察插画",
+      "description": "提取照片的姿态与空间记忆，用少量色块、稀疏墨线和干净留白生成极简插画。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/photo-to-minimal-illustration/SKILL.md",
+      "sourceUrl": "https://github.com/iamkong/photo-to-minimal-illustration",
+      "license": "MIT",
+      "sha256": "577f4457ab0b9c97495bcb05a990cad8c785bb1af3cff65e32a1824b4d7840a9",
+      "preview": {
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/iamkong/photo-to-minimal-illustration/0b0fde8a1a3783810130ba579b373c469a32ea61/examples/result-01-tent.jpg",
+            "caption": "帐篷与环境的极简观察"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/iamkong/photo-to-minimal-illustration/0b0fde8a1a3783810130ba579b373c469a32ea61/examples/result-03-horse-window.jpg",
+            "caption": "窗边马匹的极简插画"
+          }
+        ],
+        "credit": "iamkong/photo-to-minimal-illustration",
+        "license": "MIT",
+        "licenseUrl": "https://github.com/iamkong/photo-to-minimal-illustration/blob/0b0fde8a1a3783810130ba579b373c469a32ea61/LICENSE"
+      }
     }
   ]
 }
