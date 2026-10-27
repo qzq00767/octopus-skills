@@ -775,6 +775,78 @@
         "license": "MIT",
         "licenseUrl": "https://github.com/KShang29/van_gogh_oil_painting_transformation/blob/c5ff3e4f183fab46152d64708287bae048867c0b/LICENSE"
       }
+    },
+    {
+      "id": "photo-retouch-pro",
+      "name": "照片精修",
+      "description": "上传原图，优化人像、产品与风景照片的光影、色彩和细节，保留主体特征与自然质感。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/photo-retouch-pro/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/photo-retouch-pro",
+      "license": "MIT (independent browser instructions only)",
+      "sha256": "1ac45a50b1b71587b9d4a34feebc26797d4da9d9dc9e36007ac0a83426c80e01"
+    },
+    {
+      "id": "social-card",
+      "name": "社交图文卡片",
+      "description": "将文字与参考图片整理成社交封面、教程或信息卡片，突出重点并保持清晰排版。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/social-card/SKILL.md",
+      "sourceUrl": "https://github.com/qzq00767/octopus-skills/tree/main/skills/social-card",
+      "license": "MIT (independent browser instructions only)",
+      "sha256": "90e86195483093c15f98b64290faeb0f661791ddb3dd040fe7062ee8f2e0dc8f"
+    },
+    {
+      "id": "xiutu",
+      "name": "修图提示词",
+      "description": "按需求组合去杂物、调光、自然美颜与直闪效果，只编辑指定部分。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/xiutu/SKILL.md",
+      "sourceUrl": "https://github.com/Chase-qisiai/xiutu.skill",
+      "license": "MIT",
+      "sha256": "b362d1d40d05e21ef1bd274d80e222df357392e876c2a585c124e6020bb98632"
+    },
+    {
+      "id": "flat-cartoon-photo-mashup",
+      "name": "真人卡通混搭",
+      "description": "保留实景摄影背景，将指定人物重绘为粗黑描边、平涂色块的扁平卡通。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/flat-cartoon-photo-mashup/SKILL.md",
+      "sourceUrl": "https://github.com/haomiaomou-cmd/flat-cartoon-photo-mashup",
+      "license": "MIT",
+      "sha256": "8b5176434454195ce5147c255a19f7cbd4f7a00d11c7d8cd0c53ff051730952b"
+    },
+    {
+      "id": "cloud-doodle-animal",
+      "name": "云朵动物涂鸦",
+      "description": "顺着真实云朵的轮廓，用几笔黑色细线点化出可爱的动物。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/cloud-doodle-animal/SKILL.md",
+      "sourceUrl": "https://github.com/haomiaomou-cmd/cloud-doodle-animal",
+      "license": "MIT",
+      "sha256": "f03fd6dae9a7aac9fac5577f77fa3ef38e0e4e93acda125d22c7762cbb293e58"
+    },
+    {
+      "id": "child-photo-doodle-collage",
+      "name": "互动涂鸦写真",
+      "description": "保留照片人物，让蜡笔小动物与人物动作、衣物和真实道具互动，适用于儿童与成人。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/child-photo-doodle-collage/SKILL.md",
+      "sourceUrl": "https://github.com/haomiaomou-cmd/child-photo-doodle-collage",
+      "license": "MIT",
+      "sha256": "7ef929999e11e66dfac22780d49159c185baf61cf01c69ca6c8f4d267ea587cb"
     }
   ]
 }

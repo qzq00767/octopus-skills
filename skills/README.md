@@ -149,6 +149,46 @@ eastern-ink sources do not provide clear redistribution permission.
 
 ## Style Previews
 
+The next image batch appends positions 47-50 without renumbering existing skills:
+`xiutu`, `flat-cartoon-photo-mashup`, `cloud-doodle-animal`, and
+`child-photo-doodle-collage`. Each retains a pinned source revision and the
+upstream MIT notice. Xiutu provides targeted cleanup, lighting, beauty and flash
+directions rather than duplicating the broader photo-retouch entry. Its local
+prompt synchronization, confirmation workflow and six-headshot automation are
+not part of the image-only browser edition.
+
+The cartoon adapter uses generative editing rather than local deterministic
+compositing. Cloud doodles do not promise unchanged source pixels. Interactive
+portraits retain pose-aware contacts but do not quote upstream credit costs,
+download bundled reference photos or automatically retry generation.
+The flat-cartoon repository explicitly excludes its third-party reference
+screenshots from MIT; none are used. This batch adds no asset previews.
+
+Skipped as already installed: `pixel-style-poster-skill` (`pixel-style-poster`).
+Held on this check: `editorial-hero-type-poster` (CC BY-NC 4.0),
+`gathered-scenes-zine-skill` (personal noncommercial terms),
+and `tait-crt-interface-skill` (no explicit redistribution license found).
+`paper-spirit-zine` declares MIT in README, but its linked LICENSE is absent
+and no copyright/license notice was found in its skill directory; obtain a
+complete notice before redistributing an adaptation.
+
+`social-card` is an independently authored image-model skill for social covers
+and information cards, added after reviewing `op7418/guizang-social-card-skill`.
+It does not redistribute that project's AGPL instructions, templates or assets,
+and does not claim to implement its HTML renderer, batch export or Live Photo
+workflow. Its MIT license applies only to the new browser instructions.
+The related project is identified in document metadata, not as this skill's
+implementation source. Existing image controls determine output parameters.
+
+`photo-retouch-pro` adds a photo-retouching entry using independently authored
+browser instructions. Its related-project metadata identifies the project requested by the
+user; the upstream repository did not state redistribution terms when checked.
+No upstream instructions, reference files or example assets are redistributed.
+The MIT label applies only to our browser document, not the upstream repository.
+This entry uses the existing image editing flow and requires a reference photo
+and a model that supports editing images. It does not run desktop tools or
+automatically create comparison panels or extra images.
+
 Optional `preview` metadata contains up to four immutable GitHub raw image URLs,
 captions, asset credit, asset license and its source notice. Asset permissions
 are checked separately from the skill's software license. For example,
