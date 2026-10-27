@@ -748,6 +748,33 @@
         "license": "MIT",
         "licenseUrl": "https://github.com/iamkong/photo-to-minimal-illustration/blob/0b0fde8a1a3783810130ba579b373c469a32ea61/LICENSE"
       }
+    },
+    {
+      "id": "van-gogh-oil-painting-transformation",
+      "name": "梵高油画",
+      "description": "保留照片主体与构图，以厚涂油彩、旋转笔触和鲜明蓝黄关系重绘后印象派油画。",
+      "category": "image",
+      "kind": "image-style",
+      "version": "1.0.0",
+      "documentUrl": "https://raw.githubusercontent.com/qzq00767/octopus-skills/main/skills/van-gogh-oil-painting-transformation/SKILL.md",
+      "sourceUrl": "https://github.com/KShang29/van_gogh_oil_painting_transformation",
+      "license": "MIT",
+      "sha256": "d9e9345a9b72477b9d8b4161902b613710744231ace3bb1e78fe8c8ce9906eaa",
+      "preview": {
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/KShang29/van_gogh_oil_painting_transformation/c5ff3e4f183fab46152d64708287bae048867c0b/processed_images/sample_06_vangogh_oil.png",
+            "caption": "道路与旋转云层的厚涂油画"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/KShang29/van_gogh_oil_painting_transformation/c5ff3e4f183fab46152d64708287bae048867c0b/processed_images/sample_11_vangogh_oil.png",
+            "caption": "水岸城市的梵高油画重绘"
+          }
+        ],
+        "credit": "KShang29/van_gogh_oil_painting_transformation",
+        "license": "MIT",
+        "licenseUrl": "https://github.com/KShang29/van_gogh_oil_painting_transformation/blob/c5ff3e4f183fab46152d64708287bae048867c0b/LICENSE"
+      }
     }
   ]
 }
